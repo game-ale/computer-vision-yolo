@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Model weights and artifacts
+*.pt
+runs/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
